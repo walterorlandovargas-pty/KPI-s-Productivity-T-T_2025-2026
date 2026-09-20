@@ -14,5 +14,5 @@ This document is the Readme/reference manual for the project “KPIs Productivit
 The data source is entirely manual: each shift, supervisors post the day's KPIs in a Google Chat space so the team can review their performance at the end of the shift. This data is in plain text format, derived from the workloads processed in the organization's TMS system, along with the call system (Transport Pro TMS and the 8x8 voice call app). From there, the author copies that text and transforms it with the help of an AI prompt (Gemini) into a table ready to paste into Excel/Sheets, and then consolidates it into the historical dataset that feeds the dynamic tables, graphs and — more recently — the SQL queries of this project.
 
 
-## Fuente y Alcance de los Datos
+## The Dataset
 The “KPI´s Productivity T&T_2025-2026 V-GH 1.0” file contains the historical dataset used for this project.
